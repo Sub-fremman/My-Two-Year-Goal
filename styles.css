@@ -156,7 +156,7 @@ nav {
 .hero-content-two {
   max-width: var(--max-width);
   margin-right: 3rem;
-  background-image: url("Assets/hero-img.png");
+  
   background-size: cover;
   background-position: center;
   text-align: center;
